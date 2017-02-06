@@ -4,6 +4,27 @@
   "dependencies": {
     "ejs": "^1.0.0",
     "express": "^4.6.1",
-    "request":""
-  }
+    "request": "^2.79.0",
+    "body-parser": "*",
+    "method-override": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.",
+  "version": "1.0.0",
+  "devDependencies": {
+    "body-parser": "^1.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinodinims/nodejs_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinodinims/nodejs_api/issues"
+  },
+  "homepage": "https://github.com/Vinodinims/nodejs_api#readme"
 }
